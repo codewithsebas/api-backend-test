@@ -10,6 +10,7 @@ Renombra .envexample a .env y agrega tu MONGO_URI
 # Backend
 npm install
 ```
+### Iniciar
 ```
 npm run dev
 ```
