@@ -14,3 +14,8 @@ npm install
 ```
 npm run dev
 ```
+
+### Documentación con SWAGGER UI
+```
+http://localhost:8000/api-doc/
+```
