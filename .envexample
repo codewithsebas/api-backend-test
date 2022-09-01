@@ -1,0 +1,4 @@
+NODE_ENV = development
+PORT = 8000
+MONGO_URI = agrega una base de datos
+JWT_SECRET = test123
