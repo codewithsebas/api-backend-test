@@ -24,8 +24,7 @@ Migraria a React.js como interfaz de usuario, Node.js como Backend, tambien a Gr
 
 ##
 
-### ¿Conoce o ha usado tecnologías para desarrollo de inteligencia artificial?
-Cuales
+### ¿Conoce o ha usado tecnologías para desarrollo de inteligencia artificial? Cuales
 
 Conozco
 - Data Science
